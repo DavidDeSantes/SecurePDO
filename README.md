@@ -1,5 +1,5 @@
 # SecurePDO
-Application d'initiation à PDO et la sécurité :
+Application d'initiation à PDO et à la sécurité :
 
 - Connexion utilisateur
 - Inscription utilisateur
